@@ -1,0 +1,5 @@
+{
+  "name": "ScramblerKey",
+  "description": "A high-security virtual keyboard with non-deterministic layout obfuscation, canvas-based rendering, and coordinate-based input decoding.",
+  "requestFramePermissions": []
+}
